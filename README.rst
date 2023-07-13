@@ -1,10 +1,12 @@
-# getting-started-with-nginx
+getting-started-with-nginx
+==========================
 
 |deploy at divio badge|
 
 
 
-## Build and run in locally
+Build and run in locally
+------------------------
 
 
 docker build -t getting-started-with-nginx .
